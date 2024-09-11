@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sslCheck./static/css/main.47198783.css",
+    "main.js": "/sslCheck./static/js/main.b108d69b.js",
+    "static/js/453.c8f0a78b.chunk.js": "/sslCheck./static/js/453.c8f0a78b.chunk.js",
+    "index.html": "/sslCheck./index.html",
+    "main.47198783.css.map": "/sslCheck./static/css/main.47198783.css.map",
+    "main.b108d69b.js.map": "/sslCheck./static/js/main.b108d69b.js.map",
+    "453.c8f0a78b.chunk.js.map": "/sslCheck./static/js/453.c8f0a78b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.47198783.css",
+    "static/js/main.b108d69b.js"
+  ]
+}
